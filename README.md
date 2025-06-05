@@ -33,100 +33,119 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### ☁️ Cloud Platforms
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="50" height="50"/>
+<table>
+<tr>
+<td width="33%" align="center">
 
-</div>
+### ☁️ **Cloud Platforms**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
-### 🐳 DevOps & Container Technologies
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" alt="GitHub Actions" width="50" height="50"/>
+</td>
+<td width="33%" align="center">
 
-</div>
+### 🐳 **DevOps & Containers**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### 🏗️ Infrastructure as Code
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="CloudFormation" width="50" height="50"/>
-<img src="https://www.pulumi.com/logos/brand/logo-on-white-box.svg" alt="Pulumi" width="50" height="50"/>
+</td>
+<td width="33%" align="center">
 
-</div>
+### 🏗️ **Infrastructure as Code**
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
 
-### 📊 Monitoring & Observability
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="ELK Stack" width="50" height="50"/>
-<img src="https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_purple.png" alt="Datadog" width="50" height="50"/>
+</td>
+</tr>
+<tr>
+<td align="center">
 
-</div>
+### 📊 **Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
-### 🗄️ Databases & Storage
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
+</td>
+<td align="center">
 
-</div>
+### 🗄️ **Databases & Storage**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### 🌐 Programming Languages
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+</td>
+<td align="center">
 
-</div>
+### 🌐 **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### 🔧 Development Tools
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Certifications & Badges
 
 <div align="center">
-
-### 🐧 Linux Foundation
-<img src="https://images.credly.com/size/340x340/images/b4e9d493-d4d1-4b3b-8341-781e00a72ea1/LFS101x_Certificate_Badge.png" alt="LFS101" width="120" height="120"/>
-<img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="LFS158" width="120" height="120"/>
-<img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/LFCS-Logo-Hi-Res.png" alt="LFC101" width="120" height="120"/>
-
-### ☁️ AWS Certifications
-<img src="https://images.credly.com/size/340x340/images/2c4a65bc-8d5c-4b14-8f24-bde6f7a85c5d/AWS_Cloud_Essentials.png" alt="AWS Cloud Essentials" width="120" height="120"/>
-<img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Educate" width="120" height="120"/>
-
-### 🚀 API & Development  
-<img src="https://images.credly.com/size/340x340/images/6ac7dd52-2d95-476d-936e-800f584dc934/image.png" alt="Postman API Fundamentals" width="120" height="120"/>
-<img src="https://images.credly.com/size/340x340/images/a9bcf8a3-35de-4c6e-aca1-a35762ae4dae/image.png" alt="Postman Student Expert" width="120" height="120"/>
-
-### 🎯 GitHub Foundations
-<img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="120" height="120"/>
-
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>🐧 Linux Foundation</h3>
+<img src="https://images.credly.com/size/220x220/images/b4e9d493-d4d1-4b3b-8341-781e00a72ea1/LFS101x_Certificate_Badge.png" alt="LFS101" width="100" height="100"/>
+<br><b>LFS101: Intro to Linux</b>
+</td>
+<td align="center" width="25%">
+<h3>🚀 Kubernetes</h3>
+<img src="https://images.credly.com/size/220x220/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="LFS158" width="100" height="100"/>
+<br><b>LFS158: Intro to K8s</b>
+</td>
+<td align="center" width="25%">
+<h3>🎤 Speaker</h3>
+<img src="https://images.credly.com/size/220x220/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/LFCS-Logo-Hi-Res.png" alt="LFC101" width="100" height="100"/>
+<br><b>LFC101: Inclusive Speaker</b>
+</td>
+<td align="center" width="25%">
+<h3>🎯 GitHub</h3>
+<img src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="100" height="100"/>
+<br><b>GitHub Foundations</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h3>☁️ AWS</h3>
+<img src="https://images.credly.com/size/220x220/images/2c4a65bc-8d5c-4b14-8f24-bde6f7a85c5d/AWS_Cloud_Essentials.png" alt="AWS Cloud Essentials" width="100" height="100"/>
+<br><b>Cloud Essentials</b>
+</td>
+<td align="center">
+<h3>🎓 AWS Educate</h3>
+<img src="https://images.credly.com/size/220x220/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Educate" width="100" height="100"/>
+<br><b>Cloud 101</b>
+</td>
+<td align="center">
+<h3>🚀 Postman</h3>
+<img src="https://images.credly.com/size/220x220/images/6ac7dd52-2d95-476d-936e-800f584dc934/image.png" alt="Postman API Fundamentals" width="100" height="100"/>
+<br><b>API Fundamentals</b>
+</td>
+<td align="center">
+<h3>🎖️ Postman Expert</h3>
+<img src="https://images.credly.com/size/220x220/images/a9bcf8a3-35de-4c6e-aca1-a35762ae4dae/image.png" alt="Postman Student Expert" width="100" height="100"/>
+<br><b>Student Expert</b>
+</td>
+</tr>
+</table>
 </div>
 
 ---
