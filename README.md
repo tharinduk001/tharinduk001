@@ -179,6 +179,16 @@
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+  
+[![Tharindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tharinduk001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/tharinduk001)
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <table>
@@ -201,58 +211,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharinduk001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" width="70%"/>
 
 </div>
-
----
-
-## 🌟 Featured Projects & Contributions
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tharinduk001&repo=aws-devops-toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/tharinduk001/aws-devops-toolkit)
-
-</td>
-<td width="50%" align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tharinduk001&repo=kubernetes-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/tharinduk001/kubernetes-automation)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tharinduk001&repo=cloud-infrastructure&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/tharinduk001/cloud-infrastructure)
-
-</td>
-<td align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tharinduk001&repo=devops-scripts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/tharinduk001/devops-scripts)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-[![Tharindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tharinduk001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/tharinduk001)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 **Currently working on:** Advanced multi-cloud architecture solutions
-- 🌱 **Learning:** Service Mesh technologies (Istio, Linkerd)
-- 👥 **Collaborating:** Open-source DevOps automation tools
-- 💬 **Ask me about:** AWS, Azure, Kubernetes, Infrastructure automation
-- 📫 **Reach me:** [contact@tharindukalhara.com](mailto:contact@tharindukalhara.com)
-- ⚡ **Fun fact:** Founded Sri Lanka's first hybrid tech event combining hackathon, CTF, and designathon!
 
 ---
 
