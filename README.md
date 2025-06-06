@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/tharindukalhara?style=for-the-badge&logo=github&logoColor=white&color=0969da)](https://github.com/tharindukalhara)
+[![GitHub followers](https://img.shields.io/github/followers/tharinduk001?style=for-the-badge&logo=github&logoColor=white&color=0969da)](https://github.com/tharinduk001)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/@tharindukalhara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharindukalhara)
 
@@ -133,17 +133,17 @@
 <tr>
 <td align="center" width="25%">
 <h3>🐧 Linux Foundation</h3>
-<img src="https://images.credly.com/size/220x220/images/b4e9d493-d4d1-4b3b-8341-781e00a72ea1/LFS101x_Certificate_Badge.png" alt="LFS101" width="100" height="100"/>
+<img src="https://images.credly.com/size/220x220/images/b4c1c7c8-49e0-4623-a5dc-f6ace86ed3f0/Introduction_to_Linux.png" alt="LFS101" width="100" height="100"/>
 <br><b>LFS101: Intro to Linux</b>
 </td>
 <td align="center" width="25%">
 <h3>🚀 Kubernetes</h3>
-<img src="https://images.credly.com/size/220x220/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="LFS158" width="100" height="100"/>
+<img src="https://images.credly.com/size/220x220/images/fe2a5c52-0cb3-4525-b9c3-93f0f5dbc5c9/Introduction_to_Kubernetes.png" alt="LFS158" width="100" height="100"/>
 <br><b>LFS158: Intro to K8s</b>
 </td>
 <td align="center" width="25%">
 <h3>🎤 Speaker</h3>
-<img src="https://images.credly.com/size/220x220/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/LFCS-Logo-Hi-Res.png" alt="LFC101" width="100" height="100"/>
+<img src="https://images.credly.com/size/220x220/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Linux_Foundation_Speaker_-_Silver.png" alt="LFC101" width="100" height="100"/>
 <br><b>LFC101: Inclusive Speaker</b>
 </td>
 <td align="center" width="25%">
@@ -155,7 +155,7 @@
 <tr>
 <td align="center">
 <h3>☁️ AWS</h3>
-<img src="https://images.credly.com/size/220x220/images/2c4a65bc-8d5c-4b14-8f24-bde6f7a85c5d/AWS_Cloud_Essentials.png" alt="AWS Cloud Essentials" width="100" height="100"/>
+<img src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Cloud Essentials" width="100" height="100"/>
 <br><b>Cloud Essentials</b>
 </td>
 <td align="center">
@@ -185,12 +185,12 @@
 <tr>
 <td width="50%" align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharindukalhara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=tharinduk001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
 
 </td>
 <td width="50%" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharindukalhara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharinduk001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="100%"/>
 
 </td>
 </tr>
@@ -198,7 +198,7 @@
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharindukalhara&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tharinduk001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" width="70%"/>
 
 </div>
 
@@ -210,24 +210,24 @@
 <tr>
 <td width="50%" align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tharindukalhara&repo=aws-devops-toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/tharindukalhara/aws-devops-toolkit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tharinduk001&repo=aws-devops-toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/tharinduk001/aws-devops-toolkit)
 
 </td>
 <td width="50%" align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tharindukalhara&repo=kubernetes-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/tharindukalhara/kubernetes-automation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tharinduk001&repo=kubernetes-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/tharinduk001/kubernetes-automation)
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tharindukalhara&repo=cloud-infrastructure&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/tharindukalhara/cloud-infrastructure)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tharinduk001&repo=cloud-infrastructure&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/tharinduk001/cloud-infrastructure)
 
 </td>
 <td align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tharindukalhara&repo=devops-scripts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/tharindukalhara/devops-scripts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tharinduk001&repo=devops-scripts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/tharinduk001/devops-scripts)
 
 </td>
 </tr>
@@ -239,7 +239,7 @@
 
 <div align="center">
   
-[![Tharindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tharindukalhara&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/tharindukalhara)
+[![Tharindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tharinduk001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/tharinduk001)
 
 </div>
 
@@ -296,6 +296,6 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=tharindukalhara&style=for-the-badge&color=00D9FF)
+![Profile Views](https://komarev.com/ghpvc/?username=tharinduk001&style=for-the-badge&color=00D9FF)
 
 </div>
