@@ -131,8 +131,7 @@
 </td>
 <td align="center" width="25%">
 <img src="https://github.com/user-attachments/assets/ad1c6a9c-cade-4b9c-a0f9-92063100bf49" alt="LFS158" width="100" height="100"/>
-
-<br><b>LFS158: Intro to K8s</b>
+<b>LFS158: Intro to K8s</b>
 </td>
 <td align="center" width="25%">
 <h3>🎤 Speaker</h3>
