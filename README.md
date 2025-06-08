@@ -126,14 +126,12 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<h3>🐧 Linux Foundation</h3>
 <img src="https://github.com/user-attachments/assets/a1da0e67-282b-42a0-88d8-0a9389e52068" alt="LFS101" width="100" height="100"/>
-
 <br><b>LFS101: Intro to Linux</b>
 </td>
 <td align="center" width="25%">
-<h3>🚀 Kubernetes</h3>
-<img src="https://images.credly.com/size/220x220/images/fe2a5c52-0cb3-4525-b9c3-93f0f5dbc5c9/Introduction_to_Kubernetes.png" alt="LFS158" width="100" height="100"/>
+<img src="https://github.com/user-attachments/assets/ad1c6a9c-cade-4b9c-a0f9-92063100bf49" alt="LFS158" width="100" height="100"/>
+
 <br><b>LFS158: Intro to K8s</b>
 </td>
 <td align="center" width="25%">
