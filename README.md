@@ -134,8 +134,7 @@
 <br><b>LFS158: Intro to K8s</b>
 </td>
 <td align="center" width="25%">
-<h3>🎤 Speaker</h3>
-<img src="https://images.credly.com/size/220x220/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Linux_Foundation_Speaker_-_Silver.png" alt="LFC101" width="100" height="100"/>
+<img src="https://github.com/user-attachments/assets/a7b38977-4284-4a77-a8c2-2549551aecfd" alt="LFC101" width="100" height="100"/>
 <br><b>LFC101: Inclusive Speaker</b>
 </td>
 <td align="center" width="25%">
