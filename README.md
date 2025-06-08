@@ -58,8 +58,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="CloudFormation" width="50" height="50"/>
-<img src="https://www.pulumi.com/logos/brand/logo-on-white-box.svg" alt="Pulumi" width="50" height="50"/>
-
 </td>
 </tr>
 <tr>
@@ -87,7 +85,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
 
 </td>
@@ -106,7 +103,6 @@
 
 ### 🔒 **Security & CI/CD**
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" alt="GitHub Actions" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sonarqube.svg" alt="SonarQube" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/helm.svg" alt="Helm" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" alt="Nginx" width="50" height="50"/>
 
@@ -117,7 +113,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/slack.svg" alt="Slack" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" alt="Notion" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" alt="Jira" width="50" height="50"/>
 
 </td>
 </tr>
