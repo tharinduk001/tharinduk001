@@ -208,7 +208,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharinduk001)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tharindukalhara.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharindukalhara73@gmail.com)
-[![Courses](https://img.shields.io/badge/DevOps Academy-2E86C1?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://devopsacademy.online/profile/kalharacodes/?view=instructor)
 [![Credly](https://img.shields.io/badge/Credly-0056D2?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/tharindu-kalhara.a175f4b0)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tharindukalhara73)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/tharindukalhara)
