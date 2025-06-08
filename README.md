@@ -9,8 +9,9 @@
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/tharinduk001?style=for-the-badge&logo=github&logoColor=white&color=0969da)](https://github.com/tharinduk001)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZci4V6P44GInQz7G3KfY2A?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/@tharinduk001/)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtWuVsr3uRJHhexENrPeSRw?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/@tharinduk001/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharindu%20Kalhara-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharinduk001/)
+
 
 </div>
 
