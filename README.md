@@ -127,7 +127,8 @@
 <tr>
 <td align="center" width="25%">
 <h3>🐧 Linux Foundation</h3>
-<img src="https://images.credly.com/size/220x220/images/b4c1c7c8-49e0-4623-a5dc-f6ace86ed3f0/Introduction_to_Linux.png" alt="LFS101" width="100" height="100"/>
+<img src="https://github.com/user-attachments/assets/a1da0e67-282b-42a0-88d8-0a9389e52068" alt="LFS101" width="100" height="100"/>
+
 <br><b>LFS101: Intro to Linux</b>
 </td>
 <td align="center" width="25%">
