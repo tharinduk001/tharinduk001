@@ -39,10 +39,10 @@
 <td width="33%" align="center">
 
 ### ☁️ **Cloud Platforms**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+<img src="![image](https://github.com/user-attachments/assets/1435ffc3-7e59-4036-a8aa-b89d9548b848)
+" alt="AWS" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="50" height="50"/>
 
 </td>
 <td width="33%" align="center">
