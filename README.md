@@ -144,7 +144,6 @@
 </tr>
 <tr>
 <td align="center">
-<h3>☁️ AWS</h3>
 <img src="https://github.com/user-attachments/assets/3211df3a-f65f-4adc-9421-637089dbc491" alt="AWS Cloud Essentials" width="100" height="100"/>
 <br><b>Cloud Essentials</b>
 </td>
@@ -157,9 +156,8 @@
 <br><b>Postman Student Experts</b>
 </td>
 <td align="center">
-<h3>🎖️ Postman Expert</h3>
-<img src="https://images.credly.com/size/220x220/images/a9bcf8a3-35de-4c6e-aca1-a35762ae4dae/image.png" alt="Postman Student Expert" width="100" height="100"/>
-<br><b>Student Expert</b>
+<img src="https://github.com/user-attachments/assets/41d2b7ad-a01f-4fb4-87a2-e3f39b52631d" alt="Postman Student Expert" width="100" height="100"/>
+<br><b>OWASP Security</b>
 </td>
 </tr>
 </table>
