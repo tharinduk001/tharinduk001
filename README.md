@@ -114,6 +114,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/slack.svg" alt="Slack" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" alt="Jira" width="50" height="50"/>
+<div style="width:50px; height:50px; background:white; border-radius:5px; display:flex; align-items:center; justify-content:center;">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" alt="Jira" width="30" height="30"/>
+</div>
 
 </td>
 </tr>
