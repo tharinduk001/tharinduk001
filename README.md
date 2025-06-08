@@ -138,7 +138,6 @@
 <br><b>LFC101: Inclusive Speaker</b>
 </td>
 <td align="center" width="25%">
-<h3>🎯 GitHub</h3>
 <img src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="100" height="100"/>
 <br><b>GitHub Foundations</b>
 </td>
@@ -146,18 +145,16 @@
 <tr>
 <td align="center">
 <h3>☁️ AWS</h3>
-<img src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Cloud Essentials" width="100" height="100"/>
+<img src="https://github.com/user-attachments/assets/3211df3a-f65f-4adc-9421-637089dbc491" alt="AWS Cloud Essentials" width="100" height="100"/>
 <br><b>Cloud Essentials</b>
 </td>
 <td align="center">
-<h3>🎓 AWS Educate</h3>
 <img src="https://images.credly.com/size/220x220/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Educate" width="100" height="100"/>
 <br><b>Cloud 101</b>
 </td>
 <td align="center">
-<h3>🚀 Postman</h3>
-<img src="https://images.credly.com/size/220x220/images/6ac7dd52-2d95-476d-936e-800f584dc934/image.png" alt="Postman API Fundamentals" width="100" height="100"/>
-<br><b>API Fundamentals</b>
+<img src="https://github.com/user-attachments/assets/5b20f6b7-49c7-4075-b666-e208f8712925" alt="Postman API Fundamentals" width="100" height="100"/>
+<br><b>Postman Student Experts</b>
 </td>
 <td align="center">
 <h3>🎖️ Postman Expert</h3>
