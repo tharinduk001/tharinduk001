@@ -23,7 +23,7 @@
 
 🌟 **Cloud & DevOps Specialist** with a mission to architect scalable, secure infrastructure solutions  
 🎓 **Bachelor of ICT (Software Engineering)** - University of Sri Jayewardenepura  
-👨‍💼 **CTO @ CoDeKu DevOps Academy** - Trained 1,000+ students across Sri Lanka  
+👨‍💼 **Software Engineer @ CoDeKu DevOps Academy** - Trained 2,000+ students across Sri Lanka  
 🎤 **National Speaker** at government university webinars  
 👨‍⚖️ **Judge @ IDEALIZE** - University of Moratuwa innovation competition  
 🏆 **Founding Chairperson @ CryptX** - Sri Lanka's first hybrid tech event  
