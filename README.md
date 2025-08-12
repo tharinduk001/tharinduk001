@@ -222,7 +222,7 @@
 
 <div align="center">
   
-*"The best way to predict the future is to build it in the cloud."*
+*"In a Journey to Simplify DevOps & Cloud."*
 
 </div>
 
