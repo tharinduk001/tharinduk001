@@ -4,14 +4,16 @@
 
 ## About Me
 
-I'm passionate about simplifying DevOps and Cloud technologies to drive innovation. Currently working as a Software Engineer at CoDeKu DevOps Academy, where I've trained over 2,000 students across Sri Lanka.
+Final year undergraduate specializing in Software Engineering with a strong focus on Cloud Engineering and DevOps. I combine academic excellence with hands-on industry experience in automation, cloud-native architectures, and scalable solution design.
 
 - 🎓 Bachelor of ICT (Software Engineering) - University of Sri Jayewardenepura
-- 💼 1.5+ years industry experience at OREL IT
+- 💼 Software Engineer at CoDeKu DevOps Academy - Trained 2,000+ students
+- 🏢 1.5+ years industry experience at OREL IT
 - 🎤 National speaker at government university webinars
 - 👨‍⚖️ Judge at IDEALIZE - University of Moratuwa innovation competition
-- 🏆 Founding Chairperson of CryptX - Sri Lanka's first hybrid tech event
+- 🏆 Founder of CryptX - Sri Lanka's largest triplet tech event
 - 📺 YouTube content creator on DevOps & Cloud
+- ✅ Certified in Cloud Engineering and DevOps
 
 ## Tech Stack
 
