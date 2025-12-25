@@ -15,17 +15,17 @@ I'm passionate about simplifying DevOps and Cloud technologies to drive innovati
 
 ## Tech Stack
 
-**Cloud Platforms:** AWS, Azure, Google Cloud
+**Cloud, IaC & Containers:** AWS, Azure, GCP, Terraform, Ansible, Docker, Kubernetes, Helm
 
-**DevOps & Tools:** Docker, Kubernetes, Jenkins, Terraform, Ansible, GitHub Actions, Helm
+**CI/CD & Quality:** Jenkins, GitHub Actions, Argo CD, Git, GitHub, GitLab, SonarQube
 
-**Monitoring:** Prometheus, Grafana, Elasticsearch, Datadog
+**Backend & Database:** Java, Spring Boot, Node.js, Express.js, SQL, MongoDB
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis
+**Frontend & Protocols:** JavaScript, React, REST, GraphQL, YAML
 
-**Languages:** Python, JavaScript, TypeScript, Node.js, Bash
+**System, Build & Observability:** Linux, Bash, Nginx, VIM, Maven, Gradle, NPM, Prometheus, Grafana
 
-**Other:** Linux, Git, Nginx, Postman, Jira, Slack
+**Soft Skills:** Agile, Project Management, Teamwork, Leadership, Continuous Learning
 
 ## Certifications
 
