@@ -7,7 +7,6 @@
 Final year undergraduate specializing in Software Engineering with a strong focus on Cloud Engineering and DevOps. I combine academic excellence with hands-on industry experience in automation, cloud-native architectures, and scalable solution design.
 
 - 🎓 Bachelor of ICT (Software Engineering) - University of Sri Jayewardenepura
-- 💼 Instructor at CoDeKu DevOps Academy - Trained 3,000+ students
 - 🏢 1.5+ years industry experience at OREL IT
 - 🎤 National speaker at government university webinars
 - 👨‍⚖️ Judge at IDEALIZE - University of Moratuwa innovation competition
