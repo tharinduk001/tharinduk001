@@ -2,18 +2,6 @@
 
 **Cloud & DevOps Specialist** | Building scalable infrastructure solutions
 
-## About Me
-
-Final year undergraduate specializing in Software Engineering with a strong focus on Cloud Engineering and DevOps. I combine academic excellence with hands-on industry experience in automation, cloud-native architectures, and scalable solution design.
-
-- 🎓 Bachelor of ICT (Software Engineering) - University of Sri Jayewardenepura
-- 🏢 1.5+ years industry experience at OREL IT
-- 🎤 National speaker at government university webinars
-- 👨‍⚖️ Judge at IDEALIZE - University of Moratuwa innovation competition
-- 🏆 Founder of CryptX - Sri Lanka's largest triplet tech event
-- 📺 YouTube content creator on DevOps & Cloud [Tharindu Kalhara]
-- ✅ Certified in Cloud Engineering and DevOps
-
 ## Tech Stack
 
 **Cloud, IaC & Containers:** AWS, Azure, GCP, Terraform, Ansible, Docker, Kubernetes, Helm
@@ -31,6 +19,7 @@ Final year undergraduate specializing in Software Engineering with a strong focu
 ## Certifications
 
 - AZ 900: Microsoft Azure Fundamentals
+- AWS Certified Cloud Practitioner
 - Aviatrix Multicloud Certified
 - GitHub Foundations
 - IC3 Digital Literacy Foundations
