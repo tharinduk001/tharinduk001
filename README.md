@@ -2,9 +2,9 @@
 
 **Cloud & DevOps Platform Engineer** · AWS Community Builder · Educator · Community Leader
 
-I'm a Cloud & DevOps engineer who believes the best way to master technology is to teach it. Over the years I've trained **5,000+ students and professionals** — from school classrooms to corporate teams — and I currently lecture at **IDET**, delivering AWS and Cloud Operations programmes.
+I'm a Cloud & DevOps engineer who believes the best way to master technology is to teach it. Over the years I've trained **5,000+ students and professionals**, from school classrooms to corporate teams, and I currently lecture at **IDET**, delivering AWS and Cloud Operations programmes.
 
-As an **AWS Community Builder** (Containers category), I'm invested in growing the cloud-native ecosystem in Sri Lanka — speaking at universities, judging national-level hackathons (*Beauty of Cloud*, *IDEALIZE*), hosting a tech podcast, and running community meetups. I also founded **CryptX**, Sri Lanka's first island-wide triple-tech event (Hackathon + CTF + Designathon).
+As an **AWS Community Builder** (Containers category), I'm invested in growing the cloud-native ecosystem in Sri Lanka, speaking at universities, judging national-level hackathons (*Beauty of Cloud*, *IDEALIZE*), hosting a tech podcast, and running community meetups. I also founded **CryptX**, Sri Lanka's first island-wide triple-tech event (Hackathon + CTF + Designathon).
 
 Outside work you'll find me recording DevOps tutorials on YouTube, mentoring fellow students, or exploring somewhere new with a camera in hand.
 ---
