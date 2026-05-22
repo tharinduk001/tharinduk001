@@ -1,24 +1,28 @@
 # Hi, I'm Tharindu Kalhara 👋
 
-**Cloud & DevOps Specialist** | Building scalable infrastructure solutions
+**Cloud & DevOps Platform Engineer** · AWS Community Builder · Educator · Community Leader
+
+I'm a Cloud & DevOps engineer who believes the best way to master technology is to teach it. Over the years I've trained **5,000+ students and professionals** — from school classrooms to corporate teams — and I currently lecture at **IDET**, delivering AWS and Cloud Operations programmes.
+
+As an **AWS Community Builder** (Containers category), I'm invested in growing the cloud-native ecosystem in Sri Lanka — speaking at universities, judging national-level hackathons (*Beauty of Cloud*, *IDEALIZE*), hosting a tech podcast, and running community meetups. I also founded **CryptX**, Sri Lanka's first island-wide triple-tech event (Hackathon + CTF + Designathon).
+
+Outside work you'll find me recording DevOps tutorials on YouTube, mentoring fellow students, or exploring somewhere new with a camera in hand.
+---
 
 ## Tech Stack
 
-**Cloud, IaC & Containers:** AWS, Azure, GCP, Terraform, Ansible, Docker, Kubernetes, Helm
-
-**CI/CD & Quality:** Jenkins, GitHub Actions, Argo CD, Git, GitHub, GitLab, SonarQube
-
-**Backend & Database:** Java, Spring Boot, Node.js, Express.js, SQL, MongoDB
-
-**Frontend & Protocols:** JavaScript, React, REST, GraphQL, YAML
-
-**System, Build & Observability:** Linux, Bash, Nginx, VIM, Maven, Gradle, NPM, Prometheus, Grafana
-
+**Cloud, IaC & Containers:** AWS, Azure, GCP, Terraform, Ansible, Docker, Kubernetes, Helm  
+**CI/CD & Quality:** Jenkins, GitHub Actions, Argo CD, Git, GitHub, GitLab, SonarQube  
+**Backend & Database:** Java, Spring Boot, Node.js, Express.js, SQL, MongoDB  
+**Frontend & Protocols:** JavaScript, React, REST, GraphQL, YAML  
+**System, Build & Observability:** Linux, Bash, Nginx, VIM, Maven, Gradle, NPM, Prometheus, Grafana  
 **Soft Skills:** Agile, Project Management, Teamwork, Leadership, Continuous Learning
+
+---
 
 ## Certifications
 
-- AZ 900: Microsoft Azure Fundamentals
+- AZ-900: Microsoft Azure Fundamentals
 - AWS Certified Cloud Practitioner
 - Aviatrix Multicloud Certified
 - GitHub Foundations
@@ -30,15 +34,18 @@
 - Postman Student Expert
 - OWASP Security Fundamentals
 
+---
+
 ## GitHub Stats
 
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharinduk001&theme=dark&hide_border=true)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharinduk001&theme=github-compact&hide_border=true)
 
 </div>
+
+---
 
 ## Connect With Me
 
@@ -52,8 +59,7 @@
 
 <div align="center">
 
-*"In a Journey to Simplify DevOps & Cloud"*
-
+*Sri Lanka's LinkedIn Rising Star · Top 10 Tech Voice in Sri Lanka (Favikon, 2×)*  
 ⭐ Star my repositories if you find them helpful!
 
 </div>
