@@ -1,10 +1,12 @@
 # Tharindu Kalhara
+
 <a href="https://certdirectory.io/profile/tharinduk001?utm_source=github&utm_medium=readme">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/tharinduk001.svg?style=card&theme=dark">
     <img alt="Tharindu Kalhara on CertDirectory" src="https://certdirectory.io/badge/tharinduk001.svg?style=card">
   </picture>
 </a>
+
 **Cloud & DevOps Platforms Engineer | AWS Certified Solutions Architect | AWS Community Builder**
 
 I'm a Cloud & DevOps Platforms Associate Engineer at **N-able**, working across cloud infrastructure, enterprise platforms, automation, and modern engineering practices.
