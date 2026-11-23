@@ -12,8 +12,6 @@ My experience spans multi-cloud environments, Kubernetes, enterprise application
   </picture>
 </a>
 
-<a href="https://certdirectory.io/profile/tharinduk001?tab=projects&utm_source=github&utm_medium=readme&utm_campaign=stack-card"><picture><source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/stack/tharinduk001.svg?theme=dark"><img alt="Tharindu Kalhara's cloud-native stack" src="https://certdirectory.io/badge/stack/tharinduk001.svg"></picture></a>
-
 ### Experience & Leadership
 
 - **N-able:** Cloud & DevOps Platforms Associate Engineer
@@ -31,6 +29,8 @@ My experience spans multi-cloud environments, Kubernetes, enterprise application
 - Experience in technology leadership, cross-functional team management, and community development.
 
 ### Technical Expertise
+
+<a href="https://certdirectory.io/profile/tharinduk001?tab=projects&utm_source=github&utm_medium=readme&utm_campaign=stack-card"><picture><source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/stack/tharinduk001.svg?theme=dark"><img alt="Tharindu Kalhara's cloud-native stack" src="https://certdirectory.io/badge/stack/tharinduk001.svg"></picture></a>
 
 | Area | Technologies & Specialities |
 |---|---|
