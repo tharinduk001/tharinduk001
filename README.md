@@ -1,6 +1,10 @@
 # Tharindu Kalhara
 **Cloud & DevOps Platforms Engineer | AWS Certified Solutions Architect | AWS Community Builder**
 
+I'm a Cloud & DevOps Platforms Associate Engineer at **N-able**, working across cloud infrastructure, enterprise platforms, automation, and modern engineering practices.
+
+My experience spans multi-cloud environments, Kubernetes, enterprise application platforms, software engineering, and AI/Agentic AI. Beyond engineering, I'm passionate about technology education, technical leadership, and building developer communities.
+
 <a href="https://certdirectory.io/profile/tharinduk001?utm_source=github&utm_medium=readme">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/tharinduk001.svg?style=card&theme=dark">
@@ -9,10 +13,6 @@
 </a>
 
 <a href="https://certdirectory.io/profile/tharinduk001?tab=projects&utm_source=github&utm_medium=readme&utm_campaign=stack-card"><picture><source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/stack/tharinduk001.svg?theme=dark"><img alt="Tharindu Kalhara's cloud-native stack" src="https://certdirectory.io/badge/stack/tharinduk001.svg"></picture></a>
-
-I'm a Cloud & DevOps Platforms Associate Engineer at **N-able**, working across cloud infrastructure, enterprise platforms, automation, and modern engineering practices.
-
-My experience spans multi-cloud environments, Kubernetes, enterprise application platforms, software engineering, and AI/Agentic AI. Beyond engineering, I'm passionate about technology education, technical leadership, and building developer communities.
 
 ### Experience & Leadership
 
